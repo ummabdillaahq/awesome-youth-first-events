@@ -4,23 +4,21 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/ummabdillaahq/awesome-youth-first-events/actions/workflows/lint.yaml/badge.svg)](https://github.com/ummabdillaahq/awesome-youth-first-events/actions/workflows/lint.yaml)
+# Awesome Youth First Events [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/ummabdillaahq/awesome-youth-first-events/actions/workflows/lint.yaml/badge.svg)](https://github.com/ummabdillaahq/awesome-youth-first-events/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A curated list of Youth First Events in the UK.
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> -->
+<!--   <img src="" /> -->
+<!-- </a> -->
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
+This list contains awesome Youth (educational related) events happening in the UK.
 
 </div>
 
