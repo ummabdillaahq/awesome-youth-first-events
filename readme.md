@@ -161,8 +161,9 @@ This service is intended to inform and direct you towards the vast range of **fr
 - [Amazing Apprenticeships](https://linktr.ee/amazingapprenticeships) - Offers resources and advice for students, parents, and teachers on apprenticeships.
 
 - [Amazon Bright Sparks](https://www.creativementornetwork.org/amazon-prime-video-bright-sparks) - A mentoring initiative by Amazon Prime Video for young people interested in creative careers.
-
----
+  
+**-[Ciso Work Experience](https://www.linkedin.com/posts/sammoylan_ciscos-july-work-experience-is-now-open-activity-7308082091903111168-_kvd) - Cisco's 7-11 July Work Experience application. 
+**---
 
 ## 🛠️ Resources & Tools
 
