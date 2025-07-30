@@ -75,6 +75,8 @@ This service is intended to inform and direct you towards the vast range of **fr
 - [Youth Employment UK](https://www.youthemployment.org.uk/) - Supports young people in finding employment and developing workplace skills.
 
 - [Insight Outreach](https://insightoutreach.org/) - Offers mentoring and career advice to students from underrepresented backgrounds.
+- [EDT Trust](https://www.etrust.org.uk/work-experience)-EDT provides inspiring opportunities for young people aged 9 to 21 to explore the 
+exciting world of STEM, and the variety of rewarding future careers available.
 
 ---
 
