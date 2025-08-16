@@ -124,6 +124,8 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Muslimwomenprofessionals](https://www.muslimwomenprofessionals.org/) - Our mission is to empower Muslim Women Professionals.
 
+- [Sunnahtrust](https://sunnahtrust.co.uk/) - To empower young people towards a brighter future.
+
 ---
 
 ## 🏫 Online & Remote Learning
@@ -157,6 +159,8 @@ This service is intended to inform and direct you towards the vast range of **fr
 - [Freecoursesinengland](https://freecoursesinengland.co.uk/free-online-it-courses/) - Free Online Courses with Certificates.
 
 - [Harvard.edu](https://pll.harvard.edu/subject/programming) - Free and Paid courses.
+
+- [Cybergamesuk](https://cybergamesuk.com/cybergames) - Engaging challenges that test your skills in hacking, defence, and digital problem-solving.
 
 ---
 
