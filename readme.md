@@ -206,6 +206,8 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [EY](https://www.ey.com/en_uk/careers/students/schools) -  Work Experience and Apprenticeships.
 
+- [Lewishamislamicinstitute](https://www.lewishamislamicinstitute.org.uk/) - Mentoring Volunteer opportunities.
+
 
 ## 🛠️ Resources & Tools
 
