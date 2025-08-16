@@ -183,6 +183,8 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Pwc.co.uk/](https://www.pwc.co.uk/careers/early-careers/ourevents.html) - All school and college leaver events.
 
+- [EY](https://www.ey.com/en_uk/careers/students/schools) -  Work Experience and Apprenticeships.
+
 
 ## 🛠️ Resources & Tools
 
