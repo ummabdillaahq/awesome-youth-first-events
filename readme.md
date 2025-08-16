@@ -181,6 +181,8 @@ This service is intended to inform and direct you towards the vast range of **fr
   
 - [Cisco Work Experience](https://www.linkedin.com/posts/sammoylan_ciscos-july-work-experience-is-now-open-activity-7308082091903111168-_kvd) - Cisco's 7-11 July Work Experience application. 
 
+- [Pwc.co.uk/](https://www.pwc.co.uk/careers/early-careers/ourevents.html) - All school and college leaver events.
+
 
 ## 🛠️ Resources & Tools
 
