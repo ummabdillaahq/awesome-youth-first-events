@@ -238,6 +238,10 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Imperial College Outreach Instagram](https://www.instagram.com/icoutreach) - Follow for updates on STEM outreach events and application tips.
 
+- [Cs.ox.ac.uk](https://www.cs.ox.ac.uk/challengeclub/) - Oxford Womxn in Computer Science.
+
+-[cs.ox.ac.uk](https://www.cs.ox.ac.uk/admissions/undergraduate/open_days/opendays.html) - List of Outreach offered by other departments at the University of Oxford.
+
 ---
 
 ## 🔗 Application & Programme Links
