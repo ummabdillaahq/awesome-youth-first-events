@@ -270,6 +270,10 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [IFGuru YouTube](https://m.youtube.com/@IFGuru) - Educational videos on Islamic finance, careers, and entrepreneurship.
 
+- [NLP]
+
+- [Muslimahnetwork](https://www.muslimahnetwork.org/) - CBT Counselling and Training.
+
 ---
 
 ## Follow
