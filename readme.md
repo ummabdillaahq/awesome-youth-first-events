@@ -108,6 +108,8 @@ This service is intended to inform and direct you towards the vast range of **fr
 - [Catch-22](https://www.catch-22.org.uk/) - Offers support services for young people facing challenges in education and employment.
 
 - [Qimam Fellowship](https://www.qimam.com/en/) - A leadership development programme for young Muslim professionals.
+  
+- [Stem.org.uk](https://www.stem.org.uk/secondary/careers/mentoring) - Our free national online mentoring scheme, in partnership with The Brightside Trust.
 
 ---
 
@@ -130,6 +132,14 @@ This service is intended to inform and direct you towards the vast range of **fr
 - [CREST Awards](https://www.crestawards.org/) - A scheme offering science and engineering project-based awards for students.
 
 - [Workshop Registration Form (Google)](https://docs.google.com/forms/d/e/1FAIpQLSfvYGrwd2QWcY9czoY3VLb2gbda_kYzXg7dVO4GehjuyjZyFg/viewform) - A form for registering interest in upcoming workshops.
+
+- [Stem.org.uk/](https://www.stem.org.uk/secondary/enrichment) - Enrichment activities and find volunteers to support you.
+
+- [Teachcomputing.org](https://teachcomputing.org/i-belong) - Supporting teachers with resources, training, and guidance to inspire more girls to pursue computer science.
+
+- [Liverpoolmathsschool](https://liverpoolmathsschool.org/Go-Further/) - Go Further - Free Online Lessons for students.
+
+- [www5.open.ac.uk](https://www5.open.ac.uk/click-start/) - Click Start with The Open University offers flexible, part-time learning experiences tailored for busy adults. The programme has been designed for individuals aged 18-35.
 
 ---
 
