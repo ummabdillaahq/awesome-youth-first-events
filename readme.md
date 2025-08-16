@@ -92,6 +92,10 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Higherin.com](https://higherin.com/search-jobs) - Search and Apply for Placements, Internships, Graduate Jobs and Apprenticeships.
 
+- [Expertedlive](https://expertedlive.org/family/) - ExpertEdLive: Family allows parents and children to learn together connecting directly from home.
+
+- [Scienceoxford](https://scienceoxford.com/schools/) - cience Oxford runs two key programmes for primary schools and a STEM Careers Programme for secondary school students.
+
 ## 🧠 Mentoring & Personal Development
 
 - [Prince's Trust South London Centre](https://www.kingstrust.org.uk/about-us/where-we-work/england/south-london-centre) - Provides support for young people in South London through mentoring and development programmes.
@@ -149,6 +153,10 @@ This service is intended to inform and direct you towards the vast range of **fr
 - [Liverpoolmathsschool](https://liverpoolmathsschool.org/Go-Further/) - Go Further - Free Online Lessons for students.
 
 - [www5.open.ac.uk](https://www5.open.ac.uk/click-start/) - Click Start with The Open University offers flexible, part-time learning experiences tailored for busy adults. The programme has been designed for individuals aged 18-35.
+
+- [Freecoursesinengland](https://freecoursesinengland.co.uk/free-online-it-courses/) - Free Online Courses with Certificates.
+
+- [Harvard.edu](https://pll.harvard.edu/subject/programming) - Free and Paid courses.
 
 ---
 
