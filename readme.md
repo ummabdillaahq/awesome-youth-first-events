@@ -83,7 +83,14 @@ This service is intended to inform and direct you towards the vast range of **fr
 - [Maths.ox.ac.uk/outreach](https://www.maths.ox.ac.uk/outreach) - Mathematics in Oxford embraces this power and diversity.
 
 - [Kingsmathsschool.com](https://www.kingsmathsschool.com/outreach) - During the summer, KCLMS runs two completely free summer schools.
----
+
+- [Successatschool](https://successatschool.org/) - We work with some of the biggest brands and organisations and put top opportunities in front of young people.
+
+- [Senecalearning](https://senecalearning.com/en-GB/) - Seneca has courses covering 95% of the exams taken in the UK, from Primary up to A Level.
+
+- [Thenational.academy](https://www.thenational.academy/) - Get a head-start on your lesson planning using quality-checked resources you can download and adapt for free.
+
+- [Higherin.com](https://higherin.com/search-jobs) - Search and Apply for Placements, Internships, Graduate Jobs and Apprenticeships.
 
 ## 🧠 Mentoring & Personal Development
 
@@ -110,6 +117,8 @@ This service is intended to inform and direct you towards the vast range of **fr
 - [Qimam Fellowship](https://www.qimam.com/en/) - A leadership development programme for young Muslim professionals.
   
 - [Stem.org.uk](https://www.stem.org.uk/secondary/careers/mentoring) - Our free national online mentoring scheme, in partnership with The Brightside Trust.
+
+- [Muslimwomenprofessionals](https://www.muslimwomenprofessionals.org/) - Our mission is to empower Muslim Women Professionals.
 
 ---
 
