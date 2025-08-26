@@ -78,11 +78,11 @@ This service is intended to inform and direct you towards the vast range of **fr
  
 - [EDT Trust](https://www.etrust.org.uk/work-experience) - EDT provides inspiring opportunities for young people aged 9 to 21.
 
-- [Physics.ox.ac.uk](https://www.physics.ox.ac.uk/engage/schools) - We want to spark a passion for physics in young people.
+- [Physics Oxford](https://www.physics.ox.ac.uk/engage/schools) - We want to spark a passion for physics in young people.
  
-- [Maths.ox.ac.uk/outreach](https://www.maths.ox.ac.uk/outreach) - Mathematics in Oxford embraces this power and diversity.
+- [Maths Oxford Outreach](https://www.maths.ox.ac.uk/outreach) - Mathematics in Oxford embraces this power and diversity.
 
-- [Kingsmathsschool.com](https://www.kingsmathsschool.com/outreach) - During the summer, KCLMS runs two completely free summer schools.
+- [Kings Maths School](https://www.kingsmathsschool.com/outreach) - During the summer, KCLMS runs two completely free summer schools.
 
 - [Successatschool](https://successatschool.org/) - We work with some of the biggest brands and organisations and put top opportunities in front of young people.
 
