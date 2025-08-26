@@ -122,9 +122,9 @@ This service is intended to inform and direct you towards the vast range of **fr
   
 - [Stem.org.uk](https://www.stem.org.uk/secondary/careers/mentoring) - Our free national online mentoring scheme, in partnership with The Brightside Trust.
 
-- [Muslimwomenprofessionals](https://www.muslimwomenprofessionals.org/) - Our mission is to empower Muslim Women Professionals.
+- [Muslim Women Professionals](https://www.muslimwomenprofessionals.org/) - Our mission is to empower Muslim Women Professionals.
 
-- [Sunnahtrust](https://sunnahtrust.co.uk/) - To empower young people towards a brighter future.
+- [Sunnah Trust](https://sunnahtrust.co.uk/) - To empower young people towards a brighter future.
 
 ---
 
