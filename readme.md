@@ -84,17 +84,17 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Kings Maths School](https://www.kingsmathsschool.com/outreach) - During the summer, KCLMS runs two completely free summer schools.
 
-- [Successatschool](https://successatschool.org/) - We work with some of the biggest brands and organisations and put top opportunities in front of young people.
+- [Success at School](https://successatschool.org/) - We work with some of the biggest brands and organisations and put top opportunities.
 
-- [Senecalearning](https://senecalearning.com/en-GB/) - Seneca has courses covering 95% of the exams taken in the UK, from Primary up to A Level.
+- [Seneca Learning](https://senecalearning.com/en-GB/) - Seneca has courses covering 95% of the exams taken in the UK, from Primary up to A Level.
 
-- [Thenational.academy](https://www.thenational.academy/) - Get a head-start on your lesson planning using quality-checked resources you can download and adapt for free.
+- [The National Academy](https://www.thenational.academy/) - Get a head-start on your lesson planning using quality-checked resources.
 
-- [Higherin.com](https://higherin.com/search-jobs) - Search and Apply for Placements, Internships, Graduate Jobs and Apprenticeships.
+- [Higherin](https://higherin.com/search-jobs) - Search and Apply for Placements, Internships, Graduate Jobs and Apprenticeships.
 
-- [Expertedlive](https://expertedlive.org/family/) - ExpertEdLive: Family allows parents and children to learn together connecting directly from home.
+- [Experted Live](https://expertedlive.org/family/) - ExpertEdLive: Family allows parents and children to learn together connecting directly from home.
 
-- [Scienceoxford](https://scienceoxford.com/schools/) - cience Oxford runs two key programmes for primary schools and a STEM Careers Programme for secondary school students.
+- [Science Oxford](https://scienceoxford.com/schools/) - Runs two key programmes for primary schools and a STEM Careers Programme for secondary school students.
 
 ## 🧠 Mentoring & Personal Development
 
@@ -148,19 +148,19 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Workshop Registration Form (Google)](https://docs.google.com/forms/d/e/1FAIpQLSfvYGrwd2QWcY9czoY3VLb2gbda_kYzXg7dVO4GehjuyjZyFg/viewform) - A form for registering interest in upcoming workshops.
 
-- [Stem.org.uk/](https://www.stem.org.uk/secondary/enrichment) - Enrichment activities and find volunteers to support you.
+- [Stem.org](https://www.stem.org.uk/secondary/enrichment) - Enrichment activities and find volunteers to support you.
 
-- [Teachcomputing.org](https://teachcomputing.org/i-belong) - Supporting teachers with resources, training, and guidance to inspire more girls to pursue computer science.
+- [Teach Computing.org](https://teachcomputing.org/i-belong) - Supporting teachers with resources, training, and guidance to inspire more girls to pursue computer science.
 
-- [Liverpoolmathsschool](https://liverpoolmathsschool.org/Go-Further/) - Go Further - Free Online Lessons for students.
+- [Liverpool Maths School](https://liverpoolmathsschool.org/Go-Further/) - Go Further - Free Online Lessons for students.
 
-- [www5.open.ac.uk](https://www5.open.ac.uk/click-start/) - Click Start with The Open University offers flexible, part-time learning experiences tailored for busy adults. The programme has been designed for individuals aged 18-35.
+- [Open University](https://www5.open.ac.uk/click-start/) - Click Start with The Open University offers flexible, part-time learning experiences tailored for busy adults. The programme has been designed for individuals aged 18-35.
 
-- [Freecoursesinengland](https://freecoursesinengland.co.uk/free-online-it-courses/) - Free Online Courses with Certificates.
+- [Free Courses in England](https://freecoursesinengland.co.uk/free-online-it-courses/) - Free Online Courses with Certificates.
 
-- [Harvard.edu](https://pll.harvard.edu/subject/programming) - Free and Paid courses.
+- [Harvard](https://pll.harvard.edu/subject/programming) - Free and Paid courses.
 
-- [Cybergamesuk](https://cybergamesuk.com/cybergames) - Engaging challenges that test your skills in hacking, defence, and digital problem-solving.
+- [Cyber Games UK](https://cybergamesuk.com/cybergames) - Engaging challenges that test your skills in hacking, defence, and digital problem-solving.
 
 ---
 
@@ -202,11 +202,17 @@ This service is intended to inform and direct you towards the vast range of **fr
   
 - [Cisco Work Experience](https://www.linkedin.com/posts/sammoylan_ciscos-july-work-experience-is-now-open-activity-7308082091903111168-_kvd) - Cisco's 7-11 July Work Experience application. 
 
-- [Pwc.co.uk/](https://www.pwc.co.uk/careers/early-careers/ourevents.html) - All school and college leaver events.
+- [Pwc](https://www.pwc.co.uk/careers/early-careers/ourevents.html) - All school and college leaver events.
 
 - [EY](https://www.ey.com/en_uk/careers/students/schools) -  Work Experience and Apprenticeships.
 
-- [Lewishamislamicinstitute](https://www.lewishamislamicinstitute.org.uk/) - Mentoring Volunteer opportunities.
+- [Lewisham Islamic Institute](https://www.lewishamislamicinstitute.org.uk/) - Mentoring Volunteer opportunities.
+  
+- [Mawadda.School](https://mawadda.school/) - Nurture your child’s heart and mind with live, faith-centered English phonics, Arabic, hadith, writing.
+
+- [The Lantern Initiative](https://www.instagram.com/thelanterninitiative/p/DLxrap8Ihy_/?img_index=1) - course is designed to empower young Muslims.
+
+- [ICE Europe](https://online.iceurope.org/pw25) - Parenting Workshop
 
 
 ## 🛠️ Resources & Tools
@@ -263,11 +269,11 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Imperial College Outreach Instagram](https://www.instagram.com/icoutreach) - Follow for updates on STEM outreach events and application tips.
 
-- [Cs.ox.ac.uk](https://www.cs.ox.ac.uk/challengeclub/) - Oxford Womxn in Computer Science.
+- [Oxford Women in Computer Science](https://www.cs.ox.ac.uk/challengeclub/) - Oxford Womxn in Computer Science.
 
-- [Cs.ox.ac.uk](https://www.cs.ox.ac.uk/admissions/undergraduate/open_days/opendays.html) - List of Outreach offered by other departments at the University of Oxford.
+- [Oxford Outreach](https://www.cs.ox.ac.uk/admissions/undergraduate/open_days/opendays.html) - List of Outreach offered by other departments at the University of Oxford.
 
-- [Ncsc.gov.uk](https://www.ncsc.gov.uk/cyberfirst/resources) - CyberFirst Courses and Resources.
+- [Cyber First](https://www.ncsc.gov.uk/cyberfirst/resources) - CyberFirst Courses and Resources.
 
 ---
 
@@ -297,7 +303,7 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [NLP]
 
-- [Muslimahnetwork](https://www.muslimahnetwork.org/) - CBT Counselling and Training.
+- [Muslimah Network](https://www.muslimahnetwork.org/) - Provide CBT Counselling and Training.
 
 ---
 
