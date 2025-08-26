@@ -235,6 +235,8 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Multiply Employer Schemes](https://find-employer-schemes.education.gov.uk/schemes/multiply) - Government-funded initiative to help adults improve their numeracy skills.
 
+- [The Youth Puzzle Organisation](https://www.instagram.com/theyouthpuzzleorganisation/) - Serving the youth, Building the future.
+
 ---
 
 ## ⚙️ Tech & STEM-Specific Opportunities
