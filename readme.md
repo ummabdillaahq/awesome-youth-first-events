@@ -162,6 +162,12 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Cyber Games UK](https://cybergamesuk.com/cybergames) - Engaging challenges that test your skills in hacking, defence, and digital problem-solving.
 
+- [Ada National College of Digital Skills]( https://www.ada.ac.uk/) - Empowering the next generation of diverse digital talent.
+
+- [Success at School](https://successatschool.org/) -  latest apprenticeships, university events and networking opportunities.
+
+- [Zoological Society of London](https://www.zsl.org) - At ZSL, we host a huge range of events
+
 ---
 
 ## 🎭 Arts, Culture & Events
