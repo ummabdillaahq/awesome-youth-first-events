@@ -30,6 +30,8 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 <!-- lint ignore awesome-toc -->
 
+- [Free data bootcamp](https://www.primedtalent.com/data-analyst-london/) - Free data bootcamp
+
 - [🎓 Education & Career Development](#-education--career-development)
 
 - [🧠 Mentoring & Personal Development](#-mentoring--personal-development)
