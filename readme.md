@@ -286,6 +286,28 @@ This service is intended to inform and direct you towards the vast range of **fr
 
 - [Cyber First](https://www.ncsc.gov.uk/cyberfirst/resources) - CyberFirst Courses and Resources.
 
+- [nationalcareers.service.gov.uk](https://nationalcareers.service.gov.uk/find-a-course/filterresults?SideBar.Coordinates=&SideBar.SuggestedLocation=&D=0&CurrentSearchTerm=it&SelectedDistanceValue=10+miles&SideBar.StartDateValue=Anytime&SideBar.LearningMethod.SelectedIds=Online&SideBar.SelectedOrderByValue=Start+date) - nationalcareers
+  
+- [Elatt](https://elatt.org.uk/sixth-form/functional-skills-english/) - Elatt
+  
+- [Aclessex](https://courses.aclessex.com/CourseDetailsView.asp?CODE=OX7A02OL26&NAME=IT+L3+CyberSecurity+Fundamentals&ID1=9000&ID2=303952&ID3=1) - Aclessex
+  
+- [Gov](https://nationalcareers.service.gov.uk/find-a-course/details?courseId=2de93b37-e1ff-44e5-9c02-890090879a2f&runId=12df6c3b-9e3c-49f6-95ff-b4df3c9b00c0&searchTerm=it&town=&learningMethod=[%22Online%22]&courseType=&sectors=&courseHours=&courseStudyTime=&startDate=Anytime&distance=&filtera=True&page=1&orderByValue=Start%20date&coordinates=&campaignCode=&qualificationLevels=&D=0) - Gov
+  
+- [Leepgroup](https://leepgroup.com/roles/digital-courses#faqs) - Leep group
+  
+- [Free courses in England](https://freecoursesinengland.co.uk/cyber-security-course-free/#start) - Free courses in England
+  
+- [Althaus digital](https://althausdigital.co.uk/individuals/apprenticeships/digital-security/digital-security-and-threat-response/) - Althaus digital
+  
+- [Netcom training](https://www.netcomtraining.co.uk/course/certificate-in-cyber-security-practices/) - Netcom training
+  
+- [Think employment](https://www.thinkemployment.com/courses/level-3-cyber-security-london/) - Think employment
+  
+- [AI skills hub](https://aiskillshub.org.uk/aiskillsboost/coursecatalogue/) - AI skills hub
+
+- [Hub hpp](https://hub.bpp.com/applications/new/programme?standard=Apprenticeship&journey=new.client.subject.programme&client=My+employer+is+not+listed+here&subject=Data+and+Technology) - Hub hpp
+
 ---
 
 ## 🔗 Application & Programme Links
